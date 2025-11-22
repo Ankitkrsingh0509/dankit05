@@ -11,8 +11,8 @@
 ###
 
 <p align="left">Studying Mathematics and Computing at NSUT.
-  learning full-stack dev.
-  playing chess to feel smart and sleeping like it’s a sport.</p>
+  
+  .</p>
 
 ###
 
